@@ -15,6 +15,9 @@
 - **JavaScript** - Lógica de programação
 - **Vercel** - Hospedagem e deploy contínuo
 
+- **Frontend**: React.js
+- **Backend**: Node.js com Express.js
+
 ## Link para a Aplicação
 
 Vercel
