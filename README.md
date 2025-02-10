@@ -17,5 +17,5 @@
 
 ## Link para a Aplicação
 
-Você pode acessar a aplicação hospedada na Vercel através do seguinte link:
+Vercel
 [Amigo Secreto](https://amigo-secreto-git-main-antoniosergioks-projects.vercel.app)
