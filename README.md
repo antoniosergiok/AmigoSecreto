@@ -12,7 +12,7 @@
 
 - **HTML5** - Estrutura semântica
 - **CSS3** - Estilização moderna com variáveis customizadas
-- **JavaScript Vanilla** - Lógica de programação
+- **JavaScript** - Lógica de programação
 - **Vercel** - Hospedagem e deploy contínuo
 
 ## Link para a Aplicação
