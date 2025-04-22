@@ -1,4 +1,5 @@
 // Função para adicionar amigos à lista
+// Testando GitHub
 function adicionarAmigo() {
     let amigo = document.getElementById('amigo');
     let lista = document.getElementById('listaAmigos');
